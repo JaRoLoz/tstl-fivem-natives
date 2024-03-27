@@ -118,7 +118,3 @@ try {
 } catch (err) {
     console.error("Error writing file", err);
 }
-
-function a() {
-    return 4, 4;
-}
